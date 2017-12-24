@@ -42,3 +42,12 @@ URL/setHooks
 ```
 
 You will get messages from telegram server if your config is correct.
+
+## ERROR
+
+If you want debug in this script, you can see error easily in Log folder.
+
+## License
+
+Released under MIT License - see the [License File](LICENSE) for details.
+
