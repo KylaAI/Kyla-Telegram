@@ -10,7 +10,7 @@ composer install
 
 This code will install all requirement in this framework. After all done you must setting config framework in Config folder.
 
-**Telegram.php**
+**Config\Telegram.php**
 ```php
 <?php
 return [
@@ -22,7 +22,7 @@ return [
 ```
 Hooks is for telegram send data to your server. You can get API key in Bot Father (@botfather) and create your bot. Bot Father will give you API Key.
 
-**Database.php***
+**Config\Database.php***
 ```php
 <?php
 return [
